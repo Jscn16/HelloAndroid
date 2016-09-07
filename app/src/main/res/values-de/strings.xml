@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hallo Android</string>
+    <string name="welcome_text">Hallo Welt!</string>
+    <string name="hello_world_land">Hallo landscape Welt!</string>
+</resources>
