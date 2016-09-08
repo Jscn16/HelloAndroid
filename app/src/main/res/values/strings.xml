@@ -3,4 +3,5 @@
     <string name="welcome_text">Hello World!</string>
     <string name="hello_world_land">Hello landscape world!</string>
     <string name="sample_text">Another sample text.</string>
+    <string name="red_text">This is written in the color red.</string>
 </resources>

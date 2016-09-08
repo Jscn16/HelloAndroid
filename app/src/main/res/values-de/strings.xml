@@ -2,4 +2,6 @@
     <string name="app_name">Hallo Android</string>
     <string name="welcome_text">Hallo Welt!</string>
     <string name="hello_world_land">Hallo landscape Welt!</string>
+    <string name="sample_text">Ein weiterer Beispieltext.</string>
+    <string name="red_text">Dies ist in der Farbe rot geschrieben.</string>
 </resources>
